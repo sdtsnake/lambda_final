@@ -16,6 +16,6 @@ return Collections.singletonMap(palabra, max)
 
 Mostrar el resultado en consola iterando el map o bien obteniendo el primer elemento con get().
 
-Preguntas de esta tarea
+
 
 
